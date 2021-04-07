@@ -1,0 +1,3 @@
+PLEASE DO NOT UPLOAD THESE ON OTHER SIGHTS
+
+TO add to your game drag and drop into your resources then start the Vehicle in the server.cfg
